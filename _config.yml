@@ -1,0 +1,4 @@
+title: My E-Portfolio
+theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: /:title/

@@ -2,35 +2,7 @@
 
 # SWOT Analysis & PO Attainment and Evaluation
 
-<table>
-<tr>
-<td>
-
-### Program Outcome (PO) Achievement Scores
-| PO No.  | PLO Description (Abbreviated)                                         | Score |
-|--------:|------------------------------------------------------------------------|:------:|
-| PLO1   | Apply principles of Maths, Science, Engineering                        | 1.00  |
-| PLO2   | Problem analysis and application of principles                         | 0.86  |
-| PLO3   | Design innovative engineering solutions                                | 1.00  |
-| PLO4   | Investigate problems using research techniques                         | 0.75  |
-| PLO5   | Use suitable tools and techniques                                      | 0.80  |
-| PLO6   | Professional practice with safety, ethics, societal responsibilities   | 1.00  |
-| PLO7   | Sustainability and environmental considerations                        | 1.00  |
-| PLO8   | Engineer responsibilities, professionalism, ethics                     | 1.00  |
-| PLO9   | Function in teams and multidisciplinary settings                       | 1.00  |
-| PLO10  | Communicate effectively and professionally                             | 1.00  |
-| PLO11  | Entrepreneurship, management, and economics                            | 1.00  |
-| PLO12  | Lifelong learning and continuous development                           | 1.00  |
-
-
-</td>
-<td align="right">
 <img src="assets/PLO Analysis.png" alt="PO Radar Chart" width="400"/>
-</td>
-</tr>
-</table>
-
-
 
 ## Strengths
 

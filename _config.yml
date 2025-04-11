@@ -1,14 +1,5 @@
 title: My E-Portfolio
+description: "Hi, welcome to my E-Portfolio. I hope I don't bore you."
 theme: jekyll-theme-minimal
 markdown: kramdown
 permalink: /:title/
-collections:
-  projects:
-    output: true
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Andrew Ng Chee Wei"

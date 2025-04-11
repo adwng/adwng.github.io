@@ -1,4 +1,4 @@
 title: My E-Portfolio
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: kramdown
 permalink: /:title/

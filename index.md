@@ -1,8 +1,8 @@
 [Home](index.md) | [SWOT](swot.md) | [PO Attainment](po-attainment.md) | [Conclusion](conclusion.md)
 
----
+<!-- ---
 title: "Home"
----
+--- -->
 
 # Andrew Ng Chee Wei
 
@@ -45,11 +45,11 @@ I am a goal-driven and highly motivated engineer, with a strong foundation in au
 
 ## 🚀 Projects
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [WERDNA](https://github.com/adwng/werdna_ros2) | A self-balancing two-wheeled robot running ROS2. This project has been my challenging project thus far. From 3D printing custom actuators to `custom hardware interfaces`, `custom broadcasters`, and `Sim2Real Transfer`. | ROS2, C++|
-| [WERDNA-GYM](https://github.com/adwng/werdna_gensis) | Custom simulation environment based on Genesis-Embodied-AI framework for reinforcement learning with the WERDNA robot. | Genesis-Embodied-AI, Python, Gym, RL |
-| [PalmVision AGV](https://github.com/adwng/PalmVision) | A smart AGV designed for palm oil fields. Combines low-cost sensors and navigation logic for real-time field coverage and automation. | Python, Computer Vision, Arduino, ROS2 |
+| Project | Description | Technologies | Media |
+|--------|-------------|--------------|--------------|
+| [WERDNA](https://github.com/adwng/werdna_ros2) | A self-balancing two-wheeled robot running ROS2. This project has been my challenging project thus far. From 3D printing custom actuators to `custom hardware interfaces`, `custom broadcasters`, and `Sim2Real Transfer`. | ROS2, C++|<img src="assets/Chassis Design.png" alt="Werdna" width="400"/>|
+| [WERDNA-GYM](https://github.com/adwng/werdna_gensis) | Custom simulation environment based on Genesis-Embodied-AI framework for reinforcement learning with the WERDNA robot. | Genesis-Embodied-AI, Python, Gym, RL | <img src="assets/Gym.png" alt="Gym Simulation" width="400"/> |
+| [PalmVision AGV](https://github.com/adwng/PalmVision) | A smart AGV designed for palm oil fields. Combines low-cost sensors and navigation logic for real-time field coverage and automation. | Python, Computer Vision, Arduino, ROS2 |<img src="assets/PalmVision.jpg" alt="Palmvision" width="400"/>| 
 
 ---
 
